@@ -4,6 +4,10 @@
 
 [Project name]
 
+## Selected problem
+
+[Problem name]
+
 ## Team name
 
 [Your team name]
